@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/testovoe-filter-table/static/css/main.b6b1021b.css",
-    "main.js": "/testovoe-filter-table/static/js/main.587f62d0.js",
+    "main.css": "/testovoe-filter-table/static/css/main.b775b3d1.css",
+    "main.js": "/testovoe-filter-table/static/js/main.bc26d3b4.js",
     "index.html": "/testovoe-filter-table/index.html",
-    "main.b6b1021b.css.map": "/testovoe-filter-table/static/css/main.b6b1021b.css.map",
-    "main.587f62d0.js.map": "/testovoe-filter-table/static/js/main.587f62d0.js.map"
+    "main.b775b3d1.css.map": "/testovoe-filter-table/static/css/main.b775b3d1.css.map",
+    "main.bc26d3b4.js.map": "/testovoe-filter-table/static/js/main.bc26d3b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b1021b.css",
-    "static/js/main.587f62d0.js"
+    "static/css/main.b775b3d1.css",
+    "static/js/main.bc26d3b4.js"
   ]
 }
